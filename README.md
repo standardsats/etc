@@ -38,6 +38,6 @@ A lightning node can be an organic part of OpenBankProject applications. We may 
 - Liquidity bridge
 - Smaller community bank or a branch of	the larger bank
 
-The first one may rely on third-party customer OBP API while the second one is supposed	to be driven by	more advanced subordinary-type OBP API.	Creation of the	new bank with bank-correspondent demands significantly larger resources so we are focusing on bridging-like functionality of our service. In this case, the user may deposit money via standard bank transfer and, when funding is confirmed, invoke a fiat channel. The stable fiat-denominated value will allow to utilize liquidity without rush and mindfully plan business-activity related to the freshly created channel.
+The first one may rely on third-party customer OBP API, while the more advanced subordinary-type OBP API may drive the second one. Creating the new bank with bank-correspondent demands significantly larger resources, so we are focusing on the bridging-like functionality of our service. In this case, the user may deposit money via standard bank transfer and invoke a fiat channel when funding is confirmed. The stable fiat-denominated value will allow to utilize liquidity without rush and mindfully plan business activity related to the freshly created channel.
 
 We believe that sats will become a standart!
