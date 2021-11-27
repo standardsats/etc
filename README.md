@@ -31,4 +31,13 @@ The fiat-channel module for lightning node could be used both for:
  - trust-based community bank in the remote unbanked village
  - a submodule of a bank-application infrastructure for country-wide bank, integrated with KYC/AML
 
+## Connecting Legacy Finance and Bitcoin Banks
+
+A lightning node can be an organic part of OpenBankProject applications. We may consider two ways one can participate in a permissionless network and monetize its effect:
+
+- Liquidity bridge
+- Smaller community bank or a branch of	the larger bank
+
+The first one may rely on third-party customer OBP API while the second one is supposed	to be driven by	more advanced subordinary-type OBP API.	Creation of the	new bank with bank-correspondent demands significantly larger resources so we are focusing on bridging-like functionality of our service. In this case, the user may deposit money via standard bank transfer and, when funding is confirmed, invoke a fiat channel. The stable fiat-denominated value will allow to utilize liquidity without rush and mindfully plan business-activity related to the freshly created channel.
+
 We believe that sats will become a standart!
