@@ -16,7 +16,7 @@ This way users can finally split the experience between fiat<–>Bitcoin while m
 
 ## Market Opportunity
 
-There is an economical value in hosted channels itself (see [Liquidity abstraction in Lightning Network](https://notgeld.medium.com/liquidity-abstraction-in-lightning-network-3d7a1d76ac82)). However, for average low-income user or small business owner the value proposition becomes especially important when Bitcoin experiences short term downward volatility. In any case we will always be recommending to drain hosted/fiat channels and swapping sats on to cold storage. Our vision is that Standard Sats will provide valuable service without the need of being long-term custodian of the users funds.
+There is an economical value in hosted channels itself (see [Liquidity abstraction in Lightning Network](https://notgeld.medium.com/liquidity-abstraction-in-lightning-network-3d7a1d76ac82)). However, for average low-income user or small business owner the value proposition becomes especially important when Bitcoin experiences short term downward price movement. In any case we will always be recommending to drain hosted/fiat channels and swapping sats on to cold storage. Our vision is that Standard Sats will provide valuable service without the need of being long-term custodian of the users funds.
 
 Such channels might become the foundation for running native Bitcoin banks of almost any scale that target both global and local markets while maintaining a minimized infrastructure and open-sourced client- and host-side code. Since the protocol itself might be open, the end user applications may be also open and modular.
 
